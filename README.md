@@ -1,4 +1,4 @@
-### OS Project 1 (Group 12)
+# OS Project 1 (Group 12)
 
 ## Compile
 ```
